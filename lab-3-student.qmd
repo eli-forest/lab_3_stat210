@@ -1,3 +1,12 @@
+
+---
+title: "Eli Wellman Lab 3"
+output: true
+embed-resources: true
+code-tools: true
+echo: true
+---
+
 # Part 1: Setup
 
 ## GitHub Workflow
